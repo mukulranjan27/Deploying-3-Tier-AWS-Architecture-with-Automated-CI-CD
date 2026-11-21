@@ -361,9 +361,6 @@ Refer to the repository's deployment scripts and CI/CD notes for implementation 
 
 ![Application Screenshot 3](3.png)
 
-### CI/CD Workflow
-
-![CI/CD Pipeline](2.png)
 
 ---
 
