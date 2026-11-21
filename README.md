@@ -22,7 +22,8 @@ Separate CI/CD workflows automate frontend and backend deployments using AWS Cod
 
 ## 🏗️ Architecture Diagram
 
-![AWS 3-Tier Architecture](docs/architecture.png)
+![Uploading Architecture.png…]()
+
 
 > Add your architecture image to the repository under `docs/architecture.png` to display it here.
 
