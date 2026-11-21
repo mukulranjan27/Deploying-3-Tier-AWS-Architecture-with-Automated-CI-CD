@@ -23,9 +23,6 @@ Separate CI/CD workflows automate frontend and backend deployments using AWS Cod
 ![Uploading Architecture.png…]()
 
 
-
-> Add your architecture image to the repository under `docs/architecture.png` to display it here.
-
 ---
 
 ## 🛠️ AWS Services & Technologies Used
