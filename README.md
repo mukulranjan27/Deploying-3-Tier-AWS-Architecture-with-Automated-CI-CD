@@ -1,5 +1,3 @@
-# Deploying-3-Tier-AWS-Architecture-with-Automated-CI-CD
-Production-Ready 3-Tier AWS Architecture with Multi-AZ High Availability, React, Node.js, RDS MySQL, NGINX, and Automated CI/CD using AWS CodePipeline, CodeBuild &amp; CodeDeploy.
 # 🚀 Highly Available 3-Tier AWS Architecture with Automated CI/CD
 
 A production-oriented, highly available and scalable 3-tier web application deployed on AWS using a multi-AZ architecture, automated CI/CD pipelines, load balancing, centralized monitoring, and secure networking.
