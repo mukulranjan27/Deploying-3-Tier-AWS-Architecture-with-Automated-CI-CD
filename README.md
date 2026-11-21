@@ -20,7 +20,8 @@ Separate CI/CD workflows automate frontend and backend deployments using AWS Cod
 
 ## 🏗️ Architecture Diagram
 
-![Uploading Architecture.png…]()
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/e71bb765-c1ec-41da-9e73-09c556a4f83f" />
+
 
 
 ---
